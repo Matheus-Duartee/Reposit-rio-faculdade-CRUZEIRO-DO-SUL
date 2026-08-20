@@ -54,7 +54,7 @@ No momento, estou direcionando minha rotina de estudos e projetos para as seguin
 
 ##  Vamos nos conectar?
 
--  **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/matheus-duarte-957685375/?skipRedirect=true)
+-  **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-duarte-957685375/)
 -  **Gmai:** [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:duartematheus3030@gmail.com)
 
 ---
